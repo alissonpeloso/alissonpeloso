@@ -22,7 +22,11 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 <div id='languages'/>
 
 ## 👨‍💻 Ferramentas que conheço
-> Python - C - Java -HTML5 - CSS
+> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt=Python width="30">
+> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt=C width="30">
+> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt=Java width="30">
+> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt=HTML5 width="30">
+> <img src="https://img.icons8.com/color/48/000000/css3.png" alt=CSS width="30">
 
 <div id='stats'/>
   
