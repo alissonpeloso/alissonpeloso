@@ -9,6 +9,8 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 <a href="https://www.linkedin.com/in/alissonluanpeloso/" target="blank"><img src="Social/Linkedin.png" height="45px" alt="Linkedin"></a> 
 <a href="https://t.me/Aliluan" target="blank"><img src="Social/Telegram.png" height="45px" alt="Telegram"></a>
 
+*****
+
 | [Informações Rápidas](#fastinf) | [Ferramentas](#languages) | [Estatísticas do GitHub](#stats) |
 |---------------------------------|---------------------------|----------------------------------|
 
