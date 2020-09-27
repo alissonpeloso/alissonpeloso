@@ -7,6 +7,8 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 | [Informações Rápidas](#fastinf) | [Ferramentas](#languages) | [Estatísticas do GitHub](#stats) |
 |---------------------------------|---------------------------|----------------------------------|
 
+*****
+
 <div id='fastinf'/>
 
 ## 🏃 Informações Rápidas
