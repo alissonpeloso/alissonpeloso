@@ -22,7 +22,7 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 <div id='languages'/>
 
 ## 👨‍💻 Ferramentas que conheço
-> Python - C - Java - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) - CSS
+> Python - C - Java -HTML5 - CSS
 
 <div id='stats'/>
   
