@@ -2,7 +2,12 @@
 
 Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 3º Semestre 🚀.
 
-> Site - Github - Facebook - Instagram - Linkedin - Telegram
+<a href="https://alissonpeloso.tk/" target="_blank"><img src="Social/Site.png" height="45px" alt="Currículo"></a> 
+<a href="https://github.com/alissonpeloso" target="_blank"><img src="Social/Git.png" height="45px" alt="GitHub"></a> 
+<a href="https://www.facebook.com/alisson.limapeloso" target="_blank"><img src="Social/FB.png" height="45px" alt="Facebook"></a> 
+<a href="https://www.instagram.com/alisson.peloso/" target="_blank"><img src="Social/Insta.png" height="45px" alt="Instagram"></a> 
+<a href="https://www.linkedin.com/in/alissonluanpeloso/" target="_blank"><img src="Social/Linkedin.png" height="45px" alt="Linkedin"></a> 
+<a href="https://t.me/Aliluan" target="_blank"><img src="Social/Telegram.png" height="45px" alt="Telegram"></a>
 
 | [Informações Rápidas](#fastinf) | [Ferramentas](#languages) | [Estatísticas do GitHub](#stats) |
 |---------------------------------|---------------------------|----------------------------------|
