@@ -16,7 +16,7 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 - 💜 Amo Tecnologia.
 - 🎮 Acopanho a comunidade Gamer.
 - 💬 Sempre busco o melhor de mim e estou sempre pronto para ajudar os outros!
-- 📃 Confira meu [currículo](https://alissonpeloso.tk/)
+- 📃 Confira meu **[currículo](https://alissonpeloso.tk/)**
 - 🎵 Curiosidade: Toco alguns instrumentos e canto também.
 
 <div id='languages'/>
