@@ -1,5 +1,5 @@
 # Hello, I'm Alisson! 😁
-<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" align="right" height="350px">
+<img src="https://media1.tenor.com/images/58d007cb4aeecd3a2b6f2e4739aeddec/tenor.gif?itemid=14827444" align="right" height="350px">
 
 Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 3º Semestre 🚀.
 
