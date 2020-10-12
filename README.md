@@ -16,8 +16,8 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 |---------------------------------|---------------------------|----------------------------------|
 
 *****
-
 <div id='fastinf'/>
+
 
 ## 🏃 Informações Rápidas
 - 👔 Trabalho com Marketing como Analista de Marketing Digital (Performance em Facebook ADS e Google ADS).
@@ -29,6 +29,7 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 
 <div id='languages'/>
 
+
 ## 👨‍💻 Ferramentas que conheço
 > <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt=Python width="30">
 > <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt=C width="30">
@@ -37,6 +38,7 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 > <img src="https://img.icons8.com/color/48/000000/css3.png" alt=CSS width="30">
 
 <div id='stats'/>
+  
   
 ## Estatísticas do GitHub
 [![Alisson's github stats](https://github-readme-stats.vercel.app/api?username=alissonpeloso&show_icons=true&theme=dark)](https://github.com/alissonpeloso/github-readme-stats)
