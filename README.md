@@ -43,3 +43,4 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec√
 ## Estat√≠sticas do GitHub
 [![Alisson's github stats](https://github-readme-stats.vercel.app/api?username=alissonpeloso&show_icons=true&theme=dark)](https://github.com/alissonpeloso/github-readme-stats)
 
+![Alisson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonpeloso&layout=compact&hide_border=true&theme=dark)
