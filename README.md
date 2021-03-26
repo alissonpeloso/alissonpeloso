@@ -1,7 +1,7 @@
 # Hello, I'm Alisson! 😁
 <img src="https://media1.tenor.com/images/58d007cb4aeecd3a2b6f2e4739aeddec/tenor.gif?itemid=14827444" align="right" height="350px">
 
-Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 3º Semestre 🚀.
+Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 4º Semestre 🚀.
 
 <a href="https://alissonpeloso.tk/" target="blank"><img src="Social/Site.png" height="40px" alt="Currículo"></a> <br>
 <a href="https://github.com/alissonpeloso" target="blank"><img src="Social/Git.png" height="40px" alt="GitHub"></a> <br>
@@ -20,11 +20,9 @@ Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapec�
 
 
 ## 🏃 Informações Rápidas
-- 👔 Trabalho com Marketing como Analista de Marketing Digital (Performance em Facebook ADS e Google ADS).
 - 💜 Amo Tecnologia.
 - 🎮 Acompanho a comunidade Gamer.
 - 💬 Sempre busco o melhor de mim e estou sempre pronto para ajudar os outros!
-- 📃 Confira meu **[currículo](https://alissonpeloso.tk/)**
 - 🎵 Curiosidade: Toco alguns instrumentos e canto também.
 
 <div id='languages'/>
