@@ -3,7 +3,6 @@
 
 Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 4º Semestre 🚀.
 
-<a href="https://alissonpeloso.tk/" target="blank"><img src="Social/Site.png" height="40px" alt="Currículo"></a> <br>
 <a href="https://github.com/alissonpeloso" target="blank"><img src="Social/Git.png" height="40px" alt="GitHub"></a> <br>
 <a href="https://t.me/Aliluan" target="blank"><img src="Social/Telegram.png" height="40px" alt="Telegram"></a> <br>
 <a href="https://www.facebook.com/alisson.limapeloso" target="blank"><img src="Social/FB.png" height="40px" alt="Facebook"></a> <br>
