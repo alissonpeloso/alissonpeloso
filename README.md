@@ -1,7 +1,7 @@
 # Hello, I'm Alisson! 😁
 <img src="https://media1.tenor.com/images/58d007cb4aeecd3a2b6f2e4739aeddec/tenor.gif?itemid=14827444" align="right" height="350px">
 
-Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 6º Semestre 🚀.
+Sou estudante da Universidade Federal da Fronteira Sul (UFFS), no campus Chapecó. No momento, cursando Ciência da Computação no 7º Semestre 🚀. Particido do projeto [Practice](https://github.com/practice-uffs) como bolsista na função de liderança da equipe de desenvolvimento.
 
 <a href="https://github.com/alissonpeloso" target="blank"><img src="Social/Git.png" height="40px" alt="GitHub"></a> <br>
 <a href="https://t.me/Aliluan" target="blank"><img src="Social/Telegram.png" height="40px" alt="Telegram"></a> <br>
